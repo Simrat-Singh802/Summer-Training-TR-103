@@ -1,5 +1,4 @@
 Daily Diary – Day 10
-
 Date: 7 July 2026
 
 Today was a productive and engaging day in my data science journey. I focused on sharpening my skills in 

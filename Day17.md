@@ -1,6 +1,6 @@
 Daily Diary – Day 17
 
-Date: 17 July 2026
+Date: 16 July 2026
 
 Topic Covered: Solving Questions on Linear Regression
 

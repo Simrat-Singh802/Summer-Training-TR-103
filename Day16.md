@@ -1,6 +1,6 @@
 Daily Diary – Day 16
   
-Date: 16 July 2026
+Date: 15 July 2026
 
 Topic Covered: Basics of Linear Regression
 
